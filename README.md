@@ -6,7 +6,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardNgo&layout=compact&hide=html" alt="viethoang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardNgo&show_icons=true" alt="thanthoai" /></p>
 
