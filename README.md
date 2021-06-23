@@ -10,7 +10,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardNgo&show_icons=true" alt="thanthoai" /></p>
 
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@thanthoai15" height="30" width="30" /></a>
 
 <a href="https://fb.com/https://www.facebook.com/muscleenginee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/Bui.Thoai.Hust" height="30" width="30" /></a>
 </p>
