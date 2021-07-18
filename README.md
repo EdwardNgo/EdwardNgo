@@ -4,6 +4,7 @@
 
 - 📫 How to reach me **ngosongviethoang.cs@gmail.com**
 
+- I'm studying to become a data engineer
 
 
 
