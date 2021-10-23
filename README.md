@@ -11,7 +11,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardNgo&show_icons=true" alt="EdwardNgo" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardNgo" alt="EdwardNgo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardNgo&layout=compact" alt="EdwardNgo" /></p>
 
 <p align="center">
 
