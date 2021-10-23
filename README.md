@@ -5,11 +5,13 @@
 - 📫 How to reach me **ngosongviethoang.cs@gmail.com**
 
 - I'm studying to become a data engineer
-- My Blog: https://demanejar.github.io/
+- My General Blog: https://demanejar.github.io/
+- My Personal Blog: https://edwardngo.github.io/
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardNgo&show_icons=true" alt="thanthoai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardNgo&show_icons=true" alt="EdwardNgo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardNgo" alt="EdwardNgo" /></p>
 
 <p align="center">
 
