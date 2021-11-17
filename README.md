@@ -7,6 +7,7 @@
 - I'm studying to become a data engineer
 - My General Blog: https://demanejar.github.io/
 - My Personal Blog: https://edwardngo.github.io/
+- Currently I'm focusing on backend development, devops and distributed system, cloud platform such as aws, gcp,..
 
 
 
