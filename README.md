@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Việt Hoàng</h1>
-<h3 align="center">An undergradute cs student who passionate about building data platform and harness the use of AI</h3>
+<h3 align="center">An undergradute cs student who passionate about building data platform, scalable, highly available system</h3>
 
 
 - 📫 How to reach me **ngosongviethoang.cs@gmail.com**
