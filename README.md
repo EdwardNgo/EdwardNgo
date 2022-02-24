@@ -83,52 +83,17 @@ Languages and Tools🛠:
 <div>
 
 <a href="https://github.com/Ren0503">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ren0503&langs_count=6&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardNgo&langs_count=6&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ren0503">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ren0503&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardNgo&theme=tokyonight" />
 </a>
 
 <br/>
 <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ren0503&theme=github" align="center />
+  <img src="https://activity-graph.herokuapp.com/graph?username=EdwardNgo&theme=github" align="center />
 <br/>
 
 </div>
 
-### My Projects ✨:
-                                                                                                                                                                                            
-<a href="https://github.com/Ren0503/crushbook-js-ecommerce">
-  <img align="center" height="100" src="https://github.com/Ren0503/crushbook-js-ecommerce/blob/master/client/src/assets/images/header.png" />
-</a>
-
-<a href="https://github.com/Ren0503/limbo-js-social-network">
-  <img align="center" height="100" src="https://github.com/Ren0503/limbo-js-social-network/blob/master/client/src/assets/header.png" />
-</a>
-
-<a href="https://github.com/Ren0503/zenzen-js-share-video">
- <img align="center" height="100" src="https://github.com/Ren0503/zenzen-js-share-video/blob/master/client/src/assets/header.png" />
-</a>
-
-<a href="https://github.com/Ren0503/magnifier-js-forum">
- <img align="center" height="100" src="https://github.com/Ren0503/magnifier-js-forum/blob/master/client/public/header.png" />
-</a>
-                                                                                                                                    
-<a href="https://github.com/Ren0503/infinity-js-chat">
- <img align="center" height="100" src="https://github.com/Ren0503/infinity-js-chat/blob/master/client/src/assets/header.png" />
-</a>
-
-<a href="https://github.com/Ren0503/thoth-js-blogpost">
- <img align="center" height="100" src="https://github.com/Ren0503/thoth-js-blogpost/blob/master/client/src/assets/header.png" />
-</a>
-                                                                                                                           
-
-<div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/Ren0503?tab=repositories)!
-
-</div>
------
-Credits: [Ren0503](https://github.com/Ren0503)
