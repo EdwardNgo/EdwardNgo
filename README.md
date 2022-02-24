@@ -82,11 +82,11 @@ Languages and Tools🛠:
 
 <div>
 
-<a href="https://github.com/Ren0503">
+<a href="https://github.com/EdwardNgo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardNgo&langs_count=6&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ren0503">
+<a href="https://github.com/EdwardNgo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardNgo&theme=tokyonight" />
 </a>
 
