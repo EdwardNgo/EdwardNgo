@@ -83,6 +83,6 @@ Languages and Tools🛠:
 
 </div>
 
-<br/>
+<a href="https://github.com/EdwardNgo">
   <img src="https://activity-graph.herokuapp.com/graph?username=EdwardNgo&theme=github" align="center />
-<br/>
+</a>
