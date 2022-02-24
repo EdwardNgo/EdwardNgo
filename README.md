@@ -79,9 +79,10 @@ Languages and Tools🛠:
 </a>
 
 <br/>
-<br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=EdwardNgo&theme=github" align="center />
-<br/>
+
 
 </div>
 
+<br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=EdwardNgo&theme=github" align="center />
+<br/>
