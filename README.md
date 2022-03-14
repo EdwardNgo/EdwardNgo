@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **ngosongviethoang.cs@gmail.com**
 
-- I'm studying to become a data engineer
+- I'm studying to gain new things in tech and to build my own things
 - My General Blog: https://demanejar.github.io/
 - Currently I'm focusing on backend development, devops and distributed system, cloud platform such as aws, gcp,..
 
